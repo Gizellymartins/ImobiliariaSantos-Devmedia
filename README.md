@@ -9,6 +9,5 @@ Listas no HTML<br>
 Seletores CSS<br>
 Tag iframe para inserir conteúdo externo(google Maps).
 
-Layout:
 <img src="img/layout1.png">
 <img src="img/layout2.png">
