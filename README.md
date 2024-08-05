@@ -3,8 +3,8 @@
 A proposta desse projeto é criar uma página web estilizada e que exibe listas.  
 Ao criar esse projeto, foram colocados em prática os seguintes conceitos:
 
-Tags básicas do HTML
-Meta tags HTML
+Tags básicas do HTML<br>
+Meta tags HTML<br>
 Listas no HTML
 Seletores CSS
 Tag iframe para inserir conteúdo externo(google Maps).
