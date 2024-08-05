@@ -5,8 +5,8 @@ Ao criar esse projeto, foram colocados em prática os seguintes conceitos:
 
 Tags básicas do HTML<br>
 Meta tags HTML<br>
-Listas no HTML
-Seletores CSS
+Listas no HTML<br>
+Seletores CSS<br>
 Tag iframe para inserir conteúdo externo(google Maps).
 
 Layout:
